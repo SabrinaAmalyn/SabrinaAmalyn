@@ -4,8 +4,6 @@
 
 🤔 I’m looking for help with responsive design & UI/UX improvements.
 
-🌱 I’m interested in learning more about web development, AI, and cloud computing.
-
 👯 I’m willing to collaborate on web development & AI projects.
 
 # 📌 Let's Connect!
