@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👩🏻‍💻 About Me
 
-<!--
-**SabrinaAmalyn/SabrinaAmalyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a Notion-inspired portfolio website.
 
-Here are some ideas to get you started:
+🤔 I’m looking for help with responsive design & UI/UX improvements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m interested in learning more about web development, AI, and cloud computing.
+
+👯 I’m willing to collaborate on web development & AI projects.
+
+# 📌 Let's Connect!
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabrina.rizal16@gmail.com)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-rizal-7355b8265/)
